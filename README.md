@@ -3,6 +3,8 @@
 Windows desktop app for streaming YouTube audio, choosing the exact section you want, and exporting that selection as a WAV file.
 Useful for TTS apps like PocketTTS.
 
+![App screenshot](assets/ytaudiocutter.png)
+
 ## Features
 
 - Stream audio directly from a YouTube video URL
