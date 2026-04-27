@@ -3,7 +3,7 @@
 Windows desktop app for streaming YouTube audio, choosing the exact section you want, and exporting that selection as a WAV file.
 Useful for TTS apps like PocketTTS.
 
-![App screenshot](assets/ytaudiocutter.png)
+<img src="assets/ytaudiocutter.png" alt="App screenshot" width="600">
 
 ## Features
 
